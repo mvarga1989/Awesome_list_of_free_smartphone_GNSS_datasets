@@ -1,0 +1,1 @@
+# Awesome_list_of_free_smartphone_GNSS_datasets
