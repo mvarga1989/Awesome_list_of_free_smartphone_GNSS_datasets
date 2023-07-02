@@ -1,4 +1,4 @@
-# List_of free smartphone GNSS datasets
+# List of free smartphone GNSS datasets
 
 Completely free smartphone GNSS datasets to test and improve navigation and GNSS positioning algorithms:
 
