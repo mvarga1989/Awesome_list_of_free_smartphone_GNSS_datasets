@@ -5,7 +5,6 @@
 - [Google Smartphone Decimeter Challenge 2023 dataset](https://www.kaggle.com/competitions/smartphone-decimeter-2023/data)
 - [Google Smartphone Decimeter Challenge 2022 dataset](https://www.kaggle.com/competitions/smartphone-decimeter-2022/data)
 - [Google Smartphone Decimeter Challenge 2021 dataset](https://www.kaggle.com/competitions/google-smartphone-decimeter-challenge/data)
-
 - [POSGO datasets, Kinematic data of urban areas in Wuhan city](https://github.com/lizhengnss/POSGO/tree/main/data)
 - [RTKexplorer datasets; U-blox, F9P, M8T, SwifNav, ComNav, Tersus](http://rtkexplorer.com/downloads/gps-data/)
 - [GNSS Raw Measurement from Android Device, Japan, Fiji, Australia, USA; collected by Xiaomi, Huawei, Oppo, etc.](https://home.csis.u-tokyo.ac.jp/~dinesh/GNSS_Raw.htm)
